@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dan Taylor
-- 👀 I’m interested in Game Development, App Development, and Agile Project Management.
+- 👀 I’m interested in Game Development, App Development, System Administration, and Agile Project Management.
 - 📫 Reach out via Dant32190@gmail.com
 
 <!---
